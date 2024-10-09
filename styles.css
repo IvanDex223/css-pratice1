@@ -10,7 +10,7 @@
         background: linear-gradient(to right, #f85a3a 40%, white 40%);
     }   
     .header {
-        background-color: rgb(88, 245, 74);
+        background-color:darkkhaki;
         height: 30vh;   
         display: flex;
         align-items: center;
@@ -21,7 +21,7 @@
         z-index: 10000;
     }
     .main {
-        background-color: darkorange;
+        background-color: rgb(0, 72, 253);
         height: 40vh;
         display: flex;
         align-items: center;
@@ -36,6 +36,6 @@
     }
     .text{
         font-size: 30px;
-        color: rgb(40, 185, 213);
+        color: rgb(0, 0, 0);
         font-family: 'Times New Roman', Times, serif;
     }
